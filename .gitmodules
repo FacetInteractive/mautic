@@ -1,0 +1,3 @@
+[submodule "plugins/MauticAnalyticsTaggingBundle"]
+	path = plugins/MauticAnalyticsTaggingBundle
+	url = https://github.com/kuzmany/MauticAnalyticsTaggingBundle
